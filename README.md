@@ -41,7 +41,9 @@ The magazine editors have some requested modifications for the database before y
 
 {
     "BusinessName":"Penang Flavours",
+    
     "BusinessType":"Restaurant/Cafe/Canteen",
+    
     "BusinessTypeID":"",
     "AddressLine1":"Penang Flavours",
     "AddressLine2":"146A Plumstead Rd",
